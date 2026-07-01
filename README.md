@@ -34,7 +34,7 @@ Hi, I'm **Mohammad Qasem Jaradat**, a **Junior Full-Stack Developer** from **Irb
 
 **Bachelor of Science in Computer Science**  
 **Jordan University of Science and Technology — Irbid, Jordan**  
-`2022 - Expected Graduation: 2026`
+`2022 - 2026`
 
 - Completed **Programming Advices Platform** roadmap with **30+ courses**
 - Currently self-learning modern web development and backend engineering
