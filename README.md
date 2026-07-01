@@ -126,40 +126,7 @@ A desktop management system for supermarket operations.
 
 ---
 
-## 📊 GitHub Insights
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Moe-jar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=14" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moe-jar&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
-
-<img width="760" src="https://streak-stats.demolab.com?user=Moe-jar&theme=tokyonight&hide_border=true&border_radius=14&ring=00F5FF&fire=7C3AED&currStreakLabel=22D3EE" />
-
-<img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=Moe-jar&bg_color=0d1117&color=00f5ff&line=7c3aed&point=22d3ee&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Moe-jar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake dark](https://raw.githubusercontent.com/Moe-jar/Moe-jar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 💡 Soft Skills
 
